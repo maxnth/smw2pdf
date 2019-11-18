@@ -2,9 +2,9 @@
 Small CLI tool to transform Semantic MediaWiki XML exports to PDF (or HTML) files
 
 ## Setup
-(Optional:
+Optional:
 * python -m venv venv 
-* source venv/bin/activate)
+* source venv/bin/activate
 
 * pip install -r requirements.txt
 
